@@ -1,0 +1,3 @@
+#!/bin/bash
+
+singularity build elastix-5.0.1.sif docker://locastre/elastix:latest
